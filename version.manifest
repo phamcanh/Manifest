@@ -1,8 +1,8 @@
 {
-	"packageUrl" : "http://35.185.176.77/mobile",
-	"remoteManifestUrl" : "http://35.185.176.77/mobile/project.manifest",
-	"remoteVersionUrl" : "http://35.185.176.77/mobile/version.manifest",
-	"version" : "1.0.6",
+	"packageUrl" : "http://35.240.228.69/mobile",
+	"remoteManifestUrl" : "http://35.240.228.69/mobile/project.manifest",
+	"remoteVersionUrl" : "http://35.240.228.69/mobile/version.manifest",
+	"version" : "1.0.8",
 	"engineVersion" : "3.12",
 	"assets" : {},
     "searchPaths" : []
